@@ -1,14 +1,14 @@
 # PythonGame
 
-Title
+Title: <br>
 NoTitleYet
 
-Introduction
-NoTitleYet is a TextBased Adventure Game.
+Introduction:<br>
+NoTitleYet is a TextBased Adventure Game.<br>
 This is my very first project written in Python. 
 
-Technologies
+Technologies:<br>
 Python 3.6.5
 
-Launch
+Launch:<br>
 TBC
